@@ -1,0 +1,35 @@
+name: "Kitsune Solar"
+title: null
+description: "System administrator and web developer. I'm writing articles on system administration and development of various systems, applications and servers."
+image: ""
+lang: "ru-RU"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: ""
+
+author:
+  name: "Kitsune Solar"
+  email: "mail@kitsune.solar"
+  github: "KitsuneSolar"
+  twitter: "KitsuneSolar"
+
+twitter:
+  username: "KitsuneSolar"
+  card: summary
+
+social:
+  name: "KitsuneSolar"
+  links:
+    - https://github.com/KitsuneSolar
+
+webmaster_verifications:
+  google: ""
+  yandex: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji

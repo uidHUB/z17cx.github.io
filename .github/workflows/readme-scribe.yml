@@ -1,0 +1,38 @@
+name: "Update README"
+
+on:
+  push:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    name: "MarkScribe"
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@master
+        with:
+          token: "${{ secrets.SCRIBE_GITHUB_TOKEN }}"
+      - name: "README Generator"
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: "${{ secrets.SCRIBE_GITHUB_TOKEN }}"
+        with:
+          template: "templates/README.md"
+          writeTo: "README.md"
+      - name: "Upload Artifact"
+        uses: actions/upload-artifact@v3
+        with:
+          name: README.md
+          path: README.md
+      - name: "Auto Commit"
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: "${{ secrets.SCRIBE_GITHUB_TOKEN }}"
+        with:
+          commit_message: "Update generated README"
+          branch: main
+          commit_user_name: "readme-scribe 🤖"
+          commit_user_email: "actions@github.com"
+          commit_author: "readme-scribe 🤖 <actions@github.com>"
