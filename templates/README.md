@@ -1,34 +1,34 @@
-## Hi there :wave:
+# Kitsune Solar :fox_face:
 
 System administrator and web developer.
 
 I'm writing articles on system administration and development of various systems, applications and servers.
 
-#### :construction_worker_man: I'm currently working on...
+### :construction_worker_man: I'm currently working on...
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end}}
 
-#### :telescope: Recent releases
+### :telescope: Recent releases
 {{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}  
   {{ . }}{{ end }}
 {{- end}}
 
-#### :hammer: Recent pull requests
+### :hammer: Recent pull requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }}) `{{ .State }}`  
   &#8627; [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end}}
 
-#### :star: Recent stars
+### :star: Recent stars
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end }}
 
-#### :busts_in_silhouette: Recent followers
+### :busts_in_silhouette: Recent followers
 {{ range followers 5 }}
 - [{{ with .Name }}{{ . }}{{ else }}{{ .Login }}{{ end }}]({{ .URL }})
 {{- end }}
