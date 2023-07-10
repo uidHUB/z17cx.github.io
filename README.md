@@ -91,9 +91,3 @@ I'm writing articles on system administration and development of various systems
   Apps and packages for Linux and *BSD.
 - [Universal AIK](https://github.com/uaik)  
   (UNIX / Linux / Windows) automated installation kit.
-
-## Statistic
-
-<img align="left" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.02.min.svg" width="24%" alt="OctoCat" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KitsuneSolar&show_icons=true" width="64%" alt="Statistic" />
