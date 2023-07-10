@@ -1,4 +1,4 @@
-# Kitsune Solar :fox_face:
+# Kitsune Solar 🦊
 
 System administrator and web developer.
 
