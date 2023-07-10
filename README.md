@@ -1,10 +1,10 @@
-## Hi there :wave:
+# Kitsune Solar :fox_face:
 
 System administrator and web developer.
 
 I'm writing articles on system administration and development of various systems, applications and servers.
 
-#### :construction_worker_man: I'm currently working on...
+### :construction_worker_man: I'm currently working on...
 
 - [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
 - [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (1 day ago)
@@ -12,12 +12,12 @@ I'm writing articles on system administration and development of various systems
 - [ghastore-old10/build-gpg](https://github.com/ghastore-old10/build-gpg) (3 days ago)
 - [ghastore-old10/build-tar](https://github.com/ghastore-old10/build-tar) (3 days ago)
 
-#### :telescope: Recent releases
+### :telescope: Recent releases
 
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.0](https://github.com/flarum-lang/russian/releases/tag/1.15.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
-#### :hammer: Recent pull requests
+### :hammer: Recent pull requests
 
 - [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) `MERGED`  
   &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
@@ -30,7 +30,7 @@ I'm writing articles on system administration and development of various systems
 - [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (6 years ago) `MERGED`  
   &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
 
-#### :star: Recent stars
+### :star: Recent stars
 
 - [cli/cli](https://github.com/cli/cli) (3 days ago)  
   GitHub’s official command line tool
@@ -43,7 +43,7 @@ I'm writing articles on system administration and development of various systems
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (1 month ago)  
   Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 
-#### :busts_in_silhouette: Recent followers
+### :busts_in_silhouette: Recent followers
 
 - [Stanislav Migunov](https://github.com/mr-w1lde)
 - [Vladimir Petrozavodsky](https://github.com/petrozavodsky)
