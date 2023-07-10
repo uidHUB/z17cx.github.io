@@ -1,4 +1,4 @@
-# Kitsune Solar :fox_face:
+# Kitsune Solar 🦊
 
 System administrator and web developer.
 
@@ -9,8 +9,8 @@ I'm writing articles on system administration and development of various systems
 - [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
 - [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (1 day ago)
 - [cmfstore-old10/mediawiki-align](https://github.com/cmfstore-old10/mediawiki-align) (3 days ago)
-- [ghastore-old10/build-gpg](https://github.com/ghastore-old10/build-gpg) (3 days ago)
-- [ghastore-old10/build-tar](https://github.com/ghastore-old10/build-tar) (3 days ago)
+- [ghastore-old10/api-github](https://github.com/ghastore-old10/api-github) (3 days ago)
+- [ghastore-old10/api-obs](https://github.com/ghastore-old10/api-obs) (3 days ago)
 
 ### :telescope: Recent releases
 
