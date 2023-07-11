@@ -15,7 +15,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.1](https://github.com/flarum-lang/russian/releases/tag/1.15.1), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.2](https://github.com/flarum-lang/russian/releases/tag/1.15.2), today)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
