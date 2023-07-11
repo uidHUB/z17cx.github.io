@@ -8,10 +8,10 @@ I'm writing articles on system administration and development of various systems
 
 - [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
 - [site-0001/content](https://github.com/site-0001/content) (today)
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (today)  
   🇷🇺 Russian language pack for Flarum.
 - [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (2 days ago)
-- [ghastore-old10/build-tar](https://github.com/ghastore-old10/build-tar) (4 days ago)
+- [cmfstore-old10/xenforo-thread-starter](https://github.com/cmfstore-old10/xenforo-thread-starter) (4 days ago)
 
 ### :telescope: Recent releases
 
