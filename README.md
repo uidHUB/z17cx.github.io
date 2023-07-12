@@ -7,15 +7,15 @@ I'm writing articles on system administration and development of various systems
 ### :construction_worker_man: I'm currently working on...
 
 - [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
-- [site-0001/content](https://github.com/site-0001/content) (today)
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 day ago)  
   🇷🇺 Russian language pack for Flarum.
-- [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (2 days ago)
-- [cmfstore-old10/xenforo-thread-starter](https://github.com/cmfstore-old10/xenforo-thread-starter) (4 days ago)
+- [site-0001/content](https://github.com/site-0001/content) (1 day ago)
+- [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (3 days ago)
+- [cmfstore-old10/xenforo-notices](https://github.com/cmfstore-old10/xenforo-notices) (5 days ago)
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.2](https://github.com/flarum-lang/russian/releases/tag/1.15.2), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.2](https://github.com/flarum-lang/russian/releases/tag/1.15.2), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -33,7 +33,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [cli/cli](https://github.com/cli/cli) (4 days ago)  
+- [cli/cli](https://github.com/cli/cli) (5 days ago)  
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
@@ -82,13 +82,9 @@ I'm writing articles on system administration and development of various systems
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
-- [CMF Store](https://github.com/cmfstore)  
-  Add-ons, plugins, modules and themes for CMS/CMF.
+- [**Package Store**](https://github.com/pkgstore)  
+  Package Store is my global knowledge and development storage for CMS/CMF, Linux OS and other various systems.
 - [GHA Store](https://github.com/ghastore)  
   GitHub Actions store.
-- [Shell Store](https://github.com/shellstore)  
-  Modules for Linux Bash (ZSH) and MS PowerShell.
-- [UNIX Store](https://github.com/unixstore)  
-  Apps and packages for Linux and *BSD.
 - [Universal AIK](https://github.com/uaik)  
   (UNIX / Linux / Windows) automated installation kit.
