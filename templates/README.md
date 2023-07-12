@@ -55,13 +55,9 @@ I'm writing articles on system administration and development of various systems
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
-- [CMF Store](https://github.com/cmfstore)  
-  Add-ons, plugins, modules and themes for CMS/CMF.
+- [**Package Store**](https://github.com/pkgstore)  
+  Package Store is my global knowledge and development storage for CMS/CMF, Linux OS and other various systems.
 - [GHA Store](https://github.com/ghastore)  
   GitHub Actions store.
-- [Shell Store](https://github.com/shellstore)  
-  Modules for Linux Bash (ZSH) and MS PowerShell.
-- [UNIX Store](https://github.com/unixstore)  
-  Apps and packages for Linux and *BSD.
 - [Universal AIK](https://github.com/uaik)  
   (UNIX / Linux / Windows) automated installation kit.
