@@ -6,16 +6,16 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [FlarusCC/site](https://github.com/FlarusCC/site) (today)
-- [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (1 day ago)
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 days ago)  
+- [FlarusCC/site](https://github.com/FlarusCC/site) (1 day ago)
+- [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (2 days ago)
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (3 days ago)  
   🇷🇺 Russian language pack for Flarum.
-- [site-0001/content](https://github.com/site-0001/content) (2 days ago)
-- [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (4 days ago)
+- [site-0001/content](https://github.com/site-0001/content) (3 days ago)
+- [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (5 days ago)
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.2](https://github.com/flarum-lang/russian/releases/tag/1.15.2), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.2](https://github.com/flarum-lang/russian/releases/tag/1.15.2), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -33,7 +33,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [cli/cli](https://github.com/cli/cli) (6 days ago)  
+- [cli/cli](https://github.com/cli/cli) (1 week ago)  
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
