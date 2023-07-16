@@ -6,11 +6,16 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [ghastore/gpg-build](https://github.com/ghastore/gpg-build) (today)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [site-0001/content](https://github.com/site-0001/content) (today)
-- [ghastore/tar-build](https://github.com/ghastore/tar-build) (today)
-- [ghastore/vk-share](https://github.com/ghastore/vk-share) (today)
+- [ghastore/debian-build](https://github.com/ghastore/debian-build) (today)  
+  GitHub Action for build Debian source package.
+- [ghastore/gpg-build](https://github.com/ghastore/gpg-build) (today)  
+  GitHub Action for build GPG files.
+- [ghastore/tar-build](https://github.com/ghastore/tar-build) (today)  
+  GitHub Action for build TAR.
+- [ghastore/github-api](https://github.com/ghastore/github-api) (today)  
+  GitHub Action to get GitHub API responses and save them to repository.
+- [ghastore/obs-api](https://github.com/ghastore/obs-api) (today)  
+  GitHub Action to get SUSE OBS API responses and save them to repository.
 
 ### :telescope: Recent releases
 
