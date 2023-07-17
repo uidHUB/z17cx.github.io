@@ -55,9 +55,9 @@ I'm writing articles on system administration and development of various systems
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
-- [**Package Store**](https://github.com/pkgstore)  
-  Package Store is my global knowledge and development storage for CMS/CMF, Linux OS and other various systems.
-- [GHA Store](https://github.com/ghastore)  
-  GitHub Actions store.
-- [Universal AIK](https://github.com/uaik)  
+- [**GitHub Package Store**](https://github.com/pkgstore)  
+  Development storage for CMS/CMF, Linux OS and other various systems.
+- [GitHub Actions Store](https://github.com/ghastore)  
+  GitHub Actions makes it easy to automate all software workflows, now with world-class CI/CD.
+- [GitHub Universal AIK](https://github.com/uaik)  
   (UNIX / Linux / Windows) automated installation kit.
