@@ -46,7 +46,7 @@ I'm writing articles on system administration and development of various systems
 - :briefcase: [LinkedIn](https://linkedin.com/in/KitsuneSolar)
 - :movie_camera: [Twitch](https://twitch.tv/KitsuneSolar)
 - :bird: [Twitter](https://twitter.com/KitsuneSolar)
-- :speech_balloon: [Vk](https://vk.com/KitsuneSolar)
+- :speech_balloon: [VK](https://vk.com/KitsuneSolar)
 - :tv: [YouTube](https://youtube.com/KitsuneSolar)
 
 <img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
