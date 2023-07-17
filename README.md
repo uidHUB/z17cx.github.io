@@ -9,10 +9,9 @@ I'm writing articles on system administration and development of various systems
 - [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)  
   Flarum extra Russian language pack.
 - [site-0002/content](https://github.com/site-0002/content) (today)
-- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)  
-  Flarum Russian language pack.
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
 - [site-0002/ui-base](https://github.com/site-0002/ui-base) (today)
-- [site-0001/content](https://github.com/site-0001/content) (today)
+- [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
 
 ### :telescope: Recent releases
 
