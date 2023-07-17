@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)  
   Flarum extra Russian language pack.
-- [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
 - [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (today)  
   MediaWiki extension.
+- [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
 - [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)  
   Flarum Russian language pack.
 - [ghastore/obs-api](https://github.com/ghastore/obs-api) (1 day ago)  
@@ -76,7 +76,7 @@ I'm writing articles on system administration and development of various systems
 - :briefcase: [LinkedIn](https://linkedin.com/in/KitsuneSolar)
 - :movie_camera: [Twitch](https://twitch.tv/KitsuneSolar)
 - :bird: [Twitter](https://twitter.com/KitsuneSolar)
-- :speech_balloon: [Vk](https://vk.com/KitsuneSolar)
+- :speech_balloon: [VK](https://vk.com/KitsuneSolar)
 - :tv: [YouTube](https://youtube.com/KitsuneSolar)
 
 <img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
