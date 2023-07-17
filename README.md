@@ -6,12 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [FlarusCC/site](https://github.com/FlarusCC/site) (today)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
+- [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)  
+  Flarum extra Russian language pack.
 - [site-0002/content](https://github.com/site-0002/content) (today)
-- [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (today)  
-  MediaWiki extension.
+- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)  
+  Flarum Russian language pack.
+- [site-0002/ui-base](https://github.com/site-0002/ui-base) (today)
+- [site-0001/content](https://github.com/site-0001/content) (today)
 
 ### :telescope: Recent releases
 
