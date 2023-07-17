@@ -9,9 +9,8 @@ I'm writing articles on system administration and development of various systems
 - [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (today)  
   MediaWiki extension.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)  
-  Flarum Russian language pack.
 - [site-0002/content](https://github.com/site-0002/content) (today)
+- [FlarusCC/site](https://github.com/FlarusCC/site) (today)
 - [site-0002/ui-base](https://github.com/site-0002/ui-base) (today)
 
 ### :telescope: Recent releases
