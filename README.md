@@ -6,19 +6,19 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [ghastore/gpg-build](https://github.com/ghastore/gpg-build) (today)  
-  GitHub Action for build GPG files.
-- [ghastore/debian-build](https://github.com/ghastore/debian-build) (today)  
-  GitHub Action for build Debian source package.
-- [ghastore/github-api](https://github.com/ghastore/github-api) (today)  
-  GitHub Action to get GitHub API responses and save them to repository.
-- [ghastore/obs-api](https://github.com/ghastore/obs-api) (today)  
+- [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)  
+  Flarum extra Russian language pack.
+- [KitsuneSolar/KitsuneSolar.github.io](https://github.com/KitsuneSolar/KitsuneSolar.github.io) (today)
+- [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (today)  
+  MediaWiki extension.
+- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)  
+  Flarum Russian language pack.
+- [ghastore/obs-api](https://github.com/ghastore/obs-api) (1 day ago)  
   GitHub Action to get SUSE OBS API responses and save them to repository.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.2](https://github.com/flarum-lang/russian/releases/tag/1.15.2), 5 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.2](https://github.com/flarum-lang/russian/releases/tag/1.15.2), 6 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -85,9 +85,9 @@ I'm writing articles on system administration and development of various systems
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
-- [**Package Store**](https://github.com/pkgstore)  
-  Package Store is my global knowledge and development storage for CMS/CMF, Linux OS and other various systems.
-- [GHA Store](https://github.com/ghastore)  
-  GitHub Actions store.
-- [Universal AIK](https://github.com/uaik)  
+- [**GitHub Package Store**](https://github.com/pkgstore)  
+  Development storage for CMS/CMF, Linux OS and other various systems.
+- [GitHub Actions Store](https://github.com/ghastore)  
+  GitHub Actions makes it easy to automate all software workflows, now with world-class CI/CD.
+- [GitHub Universal AIK](https://github.com/uaik)  
   (UNIX / Linux / Windows) automated installation kit.
