@@ -6,16 +6,15 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
-  Hugo extension.
 - [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (today)  
   MediaWiki extension.
-- [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)  
-  Flarum extra Russian language pack.
 - [pkgstore/xenforo-ext-share-page](https://github.com/pkgstore/xenforo-ext-share-page) (today)  
   XenForo extension.
+- [site-0001/content](https://github.com/site-0001/content) (today)
 - [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (today)  
   XenForo extension.
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)  
+  Hugo extension.
 
 ### :telescope: Recent releases
 
