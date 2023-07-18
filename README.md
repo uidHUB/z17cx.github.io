@@ -6,16 +6,20 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
+  Hugo extension.
 - [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (today)  
   MediaWiki extension.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [site-0002/content](https://github.com/site-0002/content) (today)
-- [FlarusCC/site](https://github.com/FlarusCC/site) (today)
-- [site-0002/ui-base](https://github.com/site-0002/ui-base) (today)
+- [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)  
+  Flarum extra Russian language pack.
+- [pkgstore/xenforo-ext-share-page](https://github.com/pkgstore/xenforo-ext-share-page) (today)  
+  XenForo extension.
+- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (today)  
+  XenForo extension.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.0](https://github.com/flarum-lang/russian/releases/tag/1.16.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.0](https://github.com/flarum-lang/russian/releases/tag/1.16.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
