@@ -6,19 +6,18 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)  
-  Flarum Russian language pack.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (today)  
-  Bash extension.
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (today)  
-  Bash extension.
-- [pkgstore/bash-packagist-api](https://github.com/pkgstore/bash-packagist-api) (today)  
-  Bash extension.
+- [site-0002/content](https://github.com/site-0002/content) (1 day ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
+- [ghastore/debian-build](https://github.com/ghastore/debian-build) (1 day ago)  
+  GitHub Action for build Debian source package.
+- [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (1 day ago)  
+  MediaWiki extension.
+- [ghastore/github-api](https://github.com/ghastore/github-api) (1 day ago)  
+  GitHub Action to get GitHub API responses and save them to repository.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.0](https://github.com/flarum-lang/russian/releases/tag/1.16.0), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.0](https://github.com/flarum-lang/russian/releases/tag/1.16.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
