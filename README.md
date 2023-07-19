@@ -6,14 +6,14 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [site-0001/content](https://github.com/site-0001/content) (today)
 - [site-0002/content](https://github.com/site-0002/content) (1 day ago)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
 - [ghastore/debian-build](https://github.com/ghastore/debian-build) (1 day ago)  
   GitHub Action for build Debian source package.
-- [pkgstore/mediawiki-ext-list](https://github.com/pkgstore/mediawiki-ext-list) (1 day ago)  
-  MediaWiki extension.
 - [ghastore/github-api](https://github.com/ghastore/github-api) (1 day ago)  
   GitHub Action to get GitHub API responses and save them to repository.
+- [ghastore/obs-api](https://github.com/ghastore/obs-api) (1 day ago)  
+  GitHub Action to get SUSE OBS API responses and save them to repository.
 
 ### :telescope: Recent releases
 
