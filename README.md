@@ -6,18 +6,18 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0001/content](https://github.com/site-0001/content) (today)
-- [site-0002/content](https://github.com/site-0002/content) (1 day ago)
-- [ghastore/debian-build](https://github.com/ghastore/debian-build) (1 day ago)  
+- [site-0001/content](https://github.com/site-0001/content) (1 day ago)
+- [site-0002/content](https://github.com/site-0002/content) (2 days ago)
+- [ghastore/debian-build](https://github.com/ghastore/debian-build) (2 days ago)  
   GitHub Action for build Debian source package.
-- [ghastore/github-api](https://github.com/ghastore/github-api) (1 day ago)  
+- [ghastore/github-api](https://github.com/ghastore/github-api) (2 days ago)  
   GitHub Action to get GitHub API responses and save them to repository.
-- [ghastore/obs-api](https://github.com/ghastore/obs-api) (1 day ago)  
+- [ghastore/obs-api](https://github.com/ghastore/obs-api) (2 days ago)  
   GitHub Action to get SUSE OBS API responses and save them to repository.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.0](https://github.com/flarum-lang/russian/releases/tag/1.16.0), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.0](https://github.com/flarum-lang/russian/releases/tag/1.16.0), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
