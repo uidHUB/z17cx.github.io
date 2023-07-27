@@ -6,18 +6,18 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-packagist-api](https://github.com/pkgstore/bash-packagist-api) (today)  
+- [pkgstore/bash-packagist-api](https://github.com/pkgstore/bash-packagist-api) (1 day ago)  
   Bash extension.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (today)  
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
+- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 day ago)  
   Bash tools for GitHub API.
-- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (today)  
+- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (1 day ago)  
   Bash extension.
 - [site-0001/content](https://github.com/site-0001/content) (1 week ago)
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.1](https://github.com/flarum-lang/russian/releases/tag/1.16.1), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.1](https://github.com/flarum-lang/russian/releases/tag/1.16.1), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
