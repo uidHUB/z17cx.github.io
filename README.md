@@ -6,14 +6,15 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-packagist-api](https://github.com/pkgstore/bash-packagist-api) (1 day ago)  
-  Bash extension.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 day ago)  
-  Bash tools for GitHub API.
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (today)  
+  PowerShell extension.
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+  PowerShell extension.
 - [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (1 day ago)  
   Bash extension.
-- [site-0001/content](https://github.com/site-0001/content) (1 week ago)
+- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 day ago)  
+  Bash tools for GitHub API.
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
 
 ### :telescope: Recent releases
 
