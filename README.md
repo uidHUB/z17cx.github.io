@@ -6,19 +6,19 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (today)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 day ago)  
   PowerShell extension.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)  
   PowerShell extension.
-- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (1 day ago)  
+- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (2 days ago)  
   Bash extension.
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 day ago)  
+- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (2 days ago)  
   Bash tools for GitHub API.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 days ago)
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.1](https://github.com/flarum-lang/russian/releases/tag/1.16.1), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.16.1](https://github.com/flarum-lang/russian/releases/tag/1.16.1), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -36,7 +36,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [cli/cli](https://github.com/cli/cli) (2 weeks ago)  
+- [cli/cli](https://github.com/cli/cli) (3 weeks ago)  
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
