@@ -6,20 +6,20 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (5 days ago)  
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (6 days ago)  
   PowerShell extension.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (6 days ago)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 week ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (6 days ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (6 days ago)  
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 week ago)  
   PowerShell module for working with 7-ZIP.
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (6 days ago)  
+- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (1 week ago)  
   PowerShell module for working with RAR.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.17.0](https://github.com/flarum-lang/russian/releases/tag/1.17.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.17.0](https://github.com/flarum-lang/russian/releases/tag/1.17.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -37,15 +37,15 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [cli/cli](https://github.com/cli/cli) (3 weeks ago)  
+- [cli/cli](https://github.com/cli/cli) (4 weeks ago)  
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
-- [ioquake/ioq3](https://github.com/ioquake/ioq3) (1 month ago)  
+- [ioquake/ioq3](https://github.com/ioquake/ioq3) (2 months ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
-- [ec-/Quake3e](https://github.com/ec-/Quake3e) (1 month ago)  
+- [ec-/Quake3e](https://github.com/ec-/Quake3e) (2 months ago)  
   Improved Quake III Arena engine
-- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (1 month ago)  
+- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (2 months ago)  
   Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 
 ### :busts_in_silhouette: Recent followers
