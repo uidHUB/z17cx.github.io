@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.17.0](https://github.com/flarum-lang/russian/releases/tag/1.17.0), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.17.0](https://github.com/flarum-lang/russian/releases/tag/1.17.0), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -37,9 +37,9 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [cli/cli](https://github.com/cli/cli) (4 weeks ago)  
+- [cli/cli](https://github.com/cli/cli) (1 month ago)  
   GitHub’s official command line tool
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (2 months ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) (2 months ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
