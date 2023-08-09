@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.17.0](https://github.com/flarum-lang/russian/releases/tag/1.17.0), 5 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.17.0](https://github.com/flarum-lang/russian/releases/tag/1.17.0), 6 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -58,7 +58,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (11 months ago)
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (1 year ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (2 years ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (2 years ago)
