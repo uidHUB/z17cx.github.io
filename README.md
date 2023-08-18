@@ -8,13 +8,13 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (2 weeks ago)  
   PowerShell extension.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (2 weeks ago)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (3 weeks ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (2 weeks ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (3 weeks ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (2 weeks ago)  
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (3 weeks ago)  
   PowerShell module for working with 7-ZIP.
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (2 weeks ago)  
+- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (3 weeks ago)  
   PowerShell module for working with RAR.
 
 ### :telescope: Recent releases
