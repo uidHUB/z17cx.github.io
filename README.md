@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (2 weeks ago)  
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (3 weeks ago)  
   PowerShell extension.
 - [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (3 weeks ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
@@ -37,6 +37,8 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (1 day ago)  
+  Most modern mobile touch slider with hardware accelerated transitions
 - [cli/cli](https://github.com/cli/cli) (1 month ago)  
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (2 months ago)  
@@ -45,8 +47,6 @@ I'm writing articles on system administration and development of various systems
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
 - [ec-/Quake3e](https://github.com/ec-/Quake3e) (2 months ago)  
   Improved Quake III Arena engine
-- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (2 months ago)  
-  Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 
 ### :busts_in_silhouette: Recent followers
 
