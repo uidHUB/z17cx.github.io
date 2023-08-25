@@ -8,18 +8,18 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (3 weeks ago)  
   PowerShell extension.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (3 weeks ago)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (4 weeks ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (3 weeks ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (4 weeks ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (3 weeks ago)  
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (4 weeks ago)  
   PowerShell module for working with 7-ZIP.
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (3 weeks ago)  
+- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (4 weeks ago)  
   PowerShell module for working with RAR.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -37,7 +37,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (6 days ago)  
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (1 week ago)  
   Most modern mobile touch slider with hardware accelerated transitions
 - [cli/cli](https://github.com/cli/cli) (1 month ago)  
   GitHub’s official command line tool
