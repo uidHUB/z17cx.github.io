@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (3 weeks ago)  
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (4 weeks ago)  
   PowerShell extension.
 - [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (4 weeks ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 5 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 6 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
