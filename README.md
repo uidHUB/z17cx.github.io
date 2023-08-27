@@ -8,18 +8,18 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (4 weeks ago)  
   PowerShell extension.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (4 weeks ago)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 month ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (4 weeks ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 month ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (4 weeks ago)  
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 month ago)  
   PowerShell module for working with 7-ZIP.
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (4 weeks ago)  
+- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (1 month ago)  
   PowerShell module for working with RAR.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 6 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
