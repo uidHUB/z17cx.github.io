@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (4 weeks ago)  
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 month ago)  
   PowerShell extension.
 - [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 month ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
