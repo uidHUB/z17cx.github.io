@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (today)  
+- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (1 day ago)  
   Bash extension.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 month ago)  
   PowerShell extension.
@@ -37,7 +37,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (1 week ago)  
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (2 weeks ago)  
   Most modern mobile touch slider with hardware accelerated transitions
 - [cli/cli](https://github.com/cli/cli) (1 month ago)  
   GitHub’s official command line tool
