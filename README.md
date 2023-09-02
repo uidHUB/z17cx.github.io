@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (1 day ago)  
+- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (2 days ago)  
   Bash extension.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 month ago)  
   PowerShell extension.
