@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (2 days ago)  
+- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (3 days ago)  
   Bash extension.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 month ago)  
   PowerShell extension.
@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.19.0](https://github.com/flarum-lang/russian/releases/tag/1.19.0), 2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -43,9 +43,9 @@ I'm writing articles on system administration and development of various systems
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (2 months ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
-- [ioquake/ioq3](https://github.com/ioquake/ioq3) (2 months ago)  
+- [ioquake/ioq3](https://github.com/ioquake/ioq3) (3 months ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
-- [ec-/Quake3e](https://github.com/ec-/Quake3e) (2 months ago)  
+- [ec-/Quake3e](https://github.com/ec-/Quake3e) (3 months ago)  
   Improved Quake III Arena engine
 
 ### :busts_in_silhouette: Recent followers
