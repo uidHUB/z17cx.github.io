@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (4 days ago)  
+- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (5 days ago)  
   Bash extension.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 month ago)  
   PowerShell extension.
@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.20.0](https://github.com/flarum-lang/russian/releases/tag/1.20.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.20.0](https://github.com/flarum-lang/russian/releases/tag/1.20.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -39,9 +39,9 @@ I'm writing articles on system administration and development of various systems
 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (2 weeks ago)  
   Most modern mobile touch slider with hardware accelerated transitions
-- [cli/cli](https://github.com/cli/cli) (1 month ago)  
+- [cli/cli](https://github.com/cli/cli) (2 months ago)  
   GitHub’s official command line tool
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (2 months ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (3 months ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) (3 months ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
