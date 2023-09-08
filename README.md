@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.20.0](https://github.com/flarum-lang/russian/releases/tag/1.20.0), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.20.0](https://github.com/flarum-lang/russian/releases/tag/1.20.0), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -37,7 +37,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (2 weeks ago)  
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (3 weeks ago)  
   Most modern mobile touch slider with hardware accelerated transitions
 - [cli/cli](https://github.com/cli/cli) (2 months ago)  
   GitHub’s official command line tool
