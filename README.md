@@ -37,7 +37,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (3 weeks ago)  
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (4 weeks ago)  
   Most modern mobile touch slider with hardware accelerated transitions
 - [cli/cli](https://github.com/cli/cli) (2 months ago)  
   GitHub’s official command line tool
