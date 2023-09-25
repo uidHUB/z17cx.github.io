@@ -6,16 +6,15 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (3 weeks ago)  
   Bash extension.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 month ago)  
   PowerShell extension.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 month ago)  
-  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 month ago)  
-  PowerShell module for working with cURL.
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 month ago)  
   PowerShell module for working with 7-ZIP.
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 month ago)  
+  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
 
 ### :telescope: Recent releases
 
