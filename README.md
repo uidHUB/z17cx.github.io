@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
-- [site-0002/ui-base](https://github.com/site-0002/ui-base) (today)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 day ago)
+- [site-0002/ui-base](https://github.com/site-0002/ui-base) (1 day ago)
 - [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (3 weeks ago)  
   Bash extension.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 month ago)  
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.21.0](https://github.com/flarum-lang/russian/releases/tag/1.21.0), 6 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.21.0](https://github.com/flarum-lang/russian/releases/tag/1.21.0), 1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
