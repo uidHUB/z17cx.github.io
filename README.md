@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
   Hugo extension.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (today)
 - [site-0003/content](https://github.com/site-0003/content) (today)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 day ago)
 
 ### :telescope: Recent releases
@@ -54,6 +54,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (today)
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (1 year ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (2 years ago)
@@ -63,7 +64,6 @@ I'm writing articles on system administration and development of various systems
 - [Установка Proxmox VE на Debian 11 (Bullseye)](https://lib.onl/ru/posts/2021/09/1cf305cd-85d0-5e02-aabb-e01346bfee0f/) (2 years ago)
 - [Debian: Wired Networks are Unmanaged](https://lib.onl/ru/posts/2021/09/ff829d15-4a19-52e3-a3aa-ad70aa38854a/) (2 years ago)
 - [Распаковка пакетов DEB / RPM](https://lib.onl/ru/posts/2021/09/b2caccc7-92bf-57ed-970f-136c546f18e2/) (2 years ago)
-- [Отключение установки дополнительных пакетов в Debian APT](https://lib.onl/ru/posts/2021/09/43b40b92-c29a-504b-87fa-5eac368dcf95/) (2 years ago)
 
 ## Contacts
 
