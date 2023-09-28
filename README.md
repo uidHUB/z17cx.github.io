@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
-- [site-0003/content](https://github.com/site-0003/content) (today)
-- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (1 day ago)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (2 days ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (2 days ago)  
   Hugo extension.
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (2 days ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (3 days ago)
 
 ### :telescope: Recent releases
 
@@ -54,7 +54,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (1 day ago)
+- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (2 days ago)
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (1 year ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (2 years ago)
