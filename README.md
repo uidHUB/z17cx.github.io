@@ -11,7 +11,7 @@ I'm writing articles on system administration and development of various systems
   Hugo extension.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (today)
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [site-0001/content](https://github.com/site-0001/content) (today)
 
 ### :telescope: Recent releases
 
