@@ -6,16 +6,16 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (2 days ago)  
   Hugo extension.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
-- [site-0001/content](https://github.com/site-0001/content) (3 days ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 days ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (2 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (2 days ago)
+- [site-0001/content](https://github.com/site-0001/content) (4 days ago)
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.21.0](https://github.com/flarum-lang/russian/releases/tag/1.21.0), 1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.21.0](https://github.com/flarum-lang/russian/releases/tag/1.21.0), 2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -33,7 +33,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (4 days ago)  
+- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (5 days ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (1 month ago)  
   Most modern mobile touch slider with hardware accelerated transitions
@@ -41,7 +41,7 @@ I'm writing articles on system administration and development of various systems
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (3 months ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
-- [ioquake/ioq3](https://github.com/ioquake/ioq3) (3 months ago)  
+- [ioquake/ioq3](https://github.com/ioquake/ioq3) (4 months ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
 
 ### :busts_in_silhouette: Recent followers
@@ -54,7 +54,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (6 days ago)
+- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (1 week ago)
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (1 year ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (2 years ago)
