@@ -6,16 +6,16 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0003/content](https://github.com/site-0003/content) (today)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
-- [site-0001/content](https://github.com/site-0001/content) (today)
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
+- [site-0001/content](https://github.com/site-0001/content) (1 day ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.22.0](https://github.com/flarum-lang/russian/releases/tag/1.22.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.22.0](https://github.com/flarum-lang/russian/releases/tag/1.22.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -33,16 +33,16 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (6 days ago)  
+- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 day ago)  
+  Serverless IMDB API powered by Cloudflare Worker
+- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (1 week ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (1 month ago)  
   Most modern mobile touch slider with hardware accelerated transitions
-- [cli/cli](https://github.com/cli/cli) (2 months ago)  
+- [cli/cli](https://github.com/cli/cli) (3 months ago)  
   GitHub’s official command line tool
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (3 months ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (4 months ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
-- [ioquake/ioq3](https://github.com/ioquake/ioq3) (4 months ago)  
-  The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
 
 ### :busts_in_silhouette: Recent followers
 
