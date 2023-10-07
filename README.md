@@ -6,12 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (today)  
+  🇷🇺 Russian language pack for Flarum.
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
-- [site-0001/content](https://github.com/site-0001/content) (3 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
 
 ### :telescope: Recent releases
 
