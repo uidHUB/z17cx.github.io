@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
   Hugo extension.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [site-0003/content](https://github.com/site-0003/content) (today)
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 days ago)  
   🇷🇺 Russian language pack for Flarum.
