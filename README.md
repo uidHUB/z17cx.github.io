@@ -7,16 +7,16 @@ I'm writing articles on system administration and development of various systems
 ### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (2 days ago)  
   Hugo extension.
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (3 days ago)  
+- [site-0003/content](https://github.com/site-0003/content) (2 days ago)
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (4 days ago)  
   🇷🇺 Russian language pack for Flarum.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (4 days ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (5 days ago)
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.22.1](https://github.com/flarum-lang/russian/releases/tag/1.22.1), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.22.1](https://github.com/flarum-lang/russian/releases/tag/1.22.1), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -34,7 +34,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (6 days ago)  
+- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 week ago)  
   Serverless IMDB API powered by Cloudflare Worker
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (1 week ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
@@ -55,7 +55,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Установка сертификата НУЦ Минцифры](https://lib.onl/ru/posts/2023/10/75075788-9308-56b7-b531-2008cb35f7d0/) (4 days ago)
+- [Установка сертификата НУЦ Минцифры](https://lib.onl/ru/posts/2023/10/75075788-9308-56b7-b531-2008cb35f7d0/) (5 days ago)
 - [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (2 weeks ago)
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (1 year ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
