@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (today)  
+  A pure Unix shell script implementing ACME client protocol
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 week ago)  
   Serverless IMDB API powered by Cloudflare Worker
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (2 weeks ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   Most modern mobile touch slider with hardware accelerated transitions
 - [cli/cli](https://github.com/cli/cli) (3 months ago)  
   GitHub’s official command line tool
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (4 months ago)  
-  OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 
 ### :busts_in_silhouette: Recent followers
 
