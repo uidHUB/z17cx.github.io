@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (2 days ago)  
   Hugo extension.
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [site-0003/content](https://github.com/site-0003/content) (2 days ago)
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 week ago)
@@ -34,7 +34,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (2 days ago)  
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (3 days ago)  
   A pure Unix shell script implementing ACME client protocol
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 week ago)  
   Serverless IMDB API powered by Cloudflare Worker
