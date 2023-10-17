@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [site-0003/content](https://github.com/site-0003/content) (today)  
   Content from SITE-0003.
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (2 days ago)  
   Hugo extension.
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 week ago)  
   🇷🇺 Russian language pack for Flarum.
@@ -35,13 +35,13 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (4 days ago)  
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (5 days ago)  
   A pure Unix shell script implementing ACME client protocol
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 week ago)  
   Serverless IMDB API powered by Cloudflare Worker
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (2 weeks ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (1 month ago)  
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (2 months ago)  
   Most modern mobile touch slider with hardware accelerated transitions
 - [cli/cli](https://github.com/cli/cli) (3 months ago)  
   GitHub’s official command line tool
@@ -56,16 +56,16 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [SQL запросы IP.Board 2.3](https://lib.onl/ru/posts/2023/10/54d4e488-9a8f-55ed-8fea-c77d4dba0720/) (1 day ago)
+- [SQL запросы IP.Board 3.x](https://lib.onl/ru/posts/2023/10/06c9d359-31f0-5862-a342-62a21d4eb032/) (1 day ago)
+- [Условия в файлах IP.Board 2.3](https://lib.onl/ru/posts/2023/10/0743e73e-7c4c-5ab8-bba3-ba70bdb5cdfd/) (1 day ago)
+- [Условия в шаблонах IP.Board 2.3](https://lib.onl/ru/posts/2023/10/d310a44c-4259-5bef-a7c2-d3d09a5c69f4/) (1 day ago)
+- [Условия в шаблонах IP.Board 3.x](https://lib.onl/ru/posts/2023/10/a7405294-9f0c-52c1-a70e-ce4990079dc7/) (1 day ago)
 - [Установка сертификата НУЦ Минцифры](https://lib.onl/ru/posts/2023/10/75075788-9308-56b7-b531-2008cb35f7d0/) (1 week ago)
-- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (2 weeks ago)
+- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (3 weeks ago)
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (1 year ago)
 - [Интеграция обновлений в дистрибутив ОС MS Windows](https://lib.onl/ru/posts/2022/05/862226e6-cbb1-58f8-bc8e-0cfef747f475/) (1 year ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
-- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (2 years ago)
-- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (2 years ago)
-- [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (2 years ago)
-- [Отключение режима Wayland в GDM](https://lib.onl/ru/posts/2021/09/0d11ecc0-2714-5c5c-9b48-804f50419590/) (2 years ago)
-- [Установка Proxmox VE на Debian 11 (Bullseye)](https://lib.onl/ru/posts/2021/09/1cf305cd-85d0-5e02-aabb-e01346bfee0f/) (2 years ago)
 
 ## Contacts
 
