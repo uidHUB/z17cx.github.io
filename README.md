@@ -56,6 +56,8 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [Динамическое &#34;(Powered by Invision Power Board)&#34; на IP.Board 2.3](https://lib.onl/ru/posts/2023/10/347826e1-53d9-5c99-a6f8-66fc359323a2/) (today)
+- [Читабельные ссылки на темы форума для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/d477b5ce-8095-5607-91c7-5c5ad7b7f146/) (today)
 - [FAQ для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/a0756cae-ae3c-59ff-b587-ee8c7f3247c8/) (today)
 - [SQL запросы IP.Board 2.3](https://lib.onl/ru/posts/2023/10/54d4e488-9a8f-55ed-8fea-c77d4dba0720/) (1 day ago)
 - [SQL запросы IP.Board 3.x](https://lib.onl/ru/posts/2023/10/06c9d359-31f0-5862-a342-62a21d4eb032/) (1 day ago)
@@ -64,8 +66,6 @@ I'm writing articles on system administration and development of various systems
 - [Условия в шаблонах IP.Board 3.x](https://lib.onl/ru/posts/2023/10/a7405294-9f0c-52c1-a70e-ce4990079dc7/) (1 day ago)
 - [Установка сертификата НУЦ Минцифры](https://lib.onl/ru/posts/2023/10/75075788-9308-56b7-b531-2008cb35f7d0/) (1 week ago)
 - [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (3 weeks ago)
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (1 year ago)
-- [Интеграция обновлений в дистрибутив ОС MS Windows](https://lib.onl/ru/posts/2022/05/862226e6-cbb1-58f8-bc8e-0cfef747f475/) (1 year ago)
 
 ## Contacts
 
