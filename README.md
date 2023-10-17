@@ -56,16 +56,16 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (today)
+- [Дополнительная страница для vBulletin 3](https://lib.onl/ru/posts/2023/10/01d19479-028f-5b81-9c58-9c99adb08461/) (today)
+- [Дополнительная страница для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/f0463a78-0393-5891-bbe5-c39ec575ae75/) (today)
+- [Условия в шаблонах для vBulletin 4](https://lib.onl/ru/posts/2023/10/c079a268-5fb5-5d0d-8c00-0202630ce13d/) (today)
+- [Условия в шаблонах для vBulletin 3](https://lib.onl/ru/posts/2023/10/f82b1436-6752-5084-ba98-264b264edca7/) (today)
 - [Динамическое &#34;(Powered by Invision Power Board)&#34; на IP.Board 2.3](https://lib.onl/ru/posts/2023/10/347826e1-53d9-5c99-a6f8-66fc359323a2/) (today)
 - [Читабельные ссылки на темы форума для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/d477b5ce-8095-5607-91c7-5c5ad7b7f146/) (today)
 - [FAQ для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/a0756cae-ae3c-59ff-b587-ee8c7f3247c8/) (today)
 - [SQL запросы IP.Board 2.3](https://lib.onl/ru/posts/2023/10/54d4e488-9a8f-55ed-8fea-c77d4dba0720/) (1 day ago)
 - [SQL запросы IP.Board 3.x](https://lib.onl/ru/posts/2023/10/06c9d359-31f0-5862-a342-62a21d4eb032/) (1 day ago)
-- [Условия в файлах IP.Board 2.3](https://lib.onl/ru/posts/2023/10/0743e73e-7c4c-5ab8-bba3-ba70bdb5cdfd/) (1 day ago)
-- [Условия в шаблонах IP.Board 2.3](https://lib.onl/ru/posts/2023/10/d310a44c-4259-5bef-a7c2-d3d09a5c69f4/) (1 day ago)
-- [Условия в шаблонах IP.Board 3.x](https://lib.onl/ru/posts/2023/10/a7405294-9f0c-52c1-a70e-ce4990079dc7/) (1 day ago)
-- [Установка сертификата НУЦ Минцифры](https://lib.onl/ru/posts/2023/10/75075788-9308-56b7-b531-2008cb35f7d0/) (1 week ago)
-- [Получение и установка MS Office 2021 LTSC](https://lib.onl/ru/posts/2023/09/dd5a3e1a-596b-50d5-b070-b2a065f99f32/) (3 weeks ago)
 
 ## Contacts
 
