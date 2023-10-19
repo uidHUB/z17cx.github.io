@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [site-0003/content](https://github.com/site-0003/content) (today)  
   Content from SITE-0003.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
   Hugo extension.
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 week ago)
@@ -56,6 +56,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [Добавление корневых сертификатов в MikroTik RouterOS](https://lib.onl/ru/posts/2023/10/cc13623b-970c-5950-867e-168f9ba9025a/) (today)
 - [Создание сертификатов через OpenSSL](https://lib.onl/ru/posts/2023/10/6733cb51-62a0-5ed9-b421-8f08c4e0cb18/) (2 days ago)
 - [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (2 days ago)
 - [Дополнительная страница для vBulletin 3](https://lib.onl/ru/posts/2023/10/01d19479-028f-5b81-9c58-9c99adb08461/) (2 days ago)
@@ -65,7 +66,6 @@ I'm writing articles on system administration and development of various systems
 - [Динамическое &#34;(Powered by Invision Power Board)&#34; на IP.Board 2.3](https://lib.onl/ru/posts/2023/10/347826e1-53d9-5c99-a6f8-66fc359323a2/) (2 days ago)
 - [Читабельные ссылки на темы форума для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/d477b5ce-8095-5607-91c7-5c5ad7b7f146/) (2 days ago)
 - [FAQ для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/a0756cae-ae3c-59ff-b587-ee8c7f3247c8/) (2 days ago)
-- [SQL запросы IP.Board 2.3](https://lib.onl/ru/posts/2023/10/54d4e488-9a8f-55ed-8fea-c77d4dba0720/) (3 days ago)
 
 ## Contacts
 
