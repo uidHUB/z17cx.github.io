@@ -58,7 +58,7 @@ I'm writing articles on system administration and development of various systems
 
 - [Определение разрядности ОС Windows в PowerShell](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (today)
 - [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (1 day ago)
-- [Дефрагментация в OS Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (1 day ago)
+- [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (1 day ago)
 - [Добавление корневых сертификатов в RouterOS](https://lib.onl/ru/posts/2023/10/cc13623b-970c-5950-867e-168f9ba9025a/) (2 days ago)
 - [Создание сертификатов через OpenSSL](https://lib.onl/ru/posts/2023/10/6733cb51-62a0-5ed9-b421-8f08c4e0cb18/) (4 days ago)
 - [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (4 days ago)
