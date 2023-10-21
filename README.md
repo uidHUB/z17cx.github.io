@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0003/content](https://github.com/site-0003/content) (2 days ago)  
+- [site-0003/content](https://github.com/site-0003/content) (today)  
   Content from SITE-0003.
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (2 days ago)  
   Hugo extension.
