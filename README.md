@@ -57,6 +57,7 @@ I'm writing articles on system administration and development of various systems
 ## Blog
 
 - [PowerShell: Полезные функции](https://lib.onl/ru/posts/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (today)
+- [PowerShell: Стирание диска](https://lib.onl/ru/posts/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (1 day ago)
 - [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/posts/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (2 days ago)
 - [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (3 days ago)
 - [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (4 days ago)
@@ -65,7 +66,6 @@ I'm writing articles on system administration and development of various systems
 - [Создание сертификатов через OpenSSL](https://lib.onl/ru/posts/2023/10/6733cb51-62a0-5ed9-b421-8f08c4e0cb18/) (1 week ago)
 - [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (1 week ago)
 - [Дополнительная страница для vBulletin 3](https://lib.onl/ru/posts/2023/10/01d19479-028f-5b81-9c58-9c99adb08461/) (1 week ago)
-- [Дополнительная страница для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/f0463a78-0393-5891-bbe5-c39ec575ae75/) (1 week ago)
 
 ## Contacts
 
