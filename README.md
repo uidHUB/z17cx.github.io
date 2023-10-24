@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [site-0003/content](https://github.com/site-0003/content) (today)  
   Content from SITE-0003.
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (2 days ago)
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 weeks ago)
@@ -56,16 +56,16 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/posts/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (1 day ago)
-- [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (2 days ago)
-- [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (3 days ago)
-- [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (3 days ago)
-- [Добавление корневых сертификатов в RouterOS](https://lib.onl/ru/posts/2023/10/cc13623b-970c-5950-867e-168f9ba9025a/) (4 days ago)
-- [Создание сертификатов через OpenSSL](https://lib.onl/ru/posts/2023/10/6733cb51-62a0-5ed9-b421-8f08c4e0cb18/) (6 days ago)
-- [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (6 days ago)
-- [Дополнительная страница для vBulletin 3](https://lib.onl/ru/posts/2023/10/01d19479-028f-5b81-9c58-9c99adb08461/) (6 days ago)
-- [Дополнительная страница для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/f0463a78-0393-5891-bbe5-c39ec575ae75/) (6 days ago)
-- [Условия в шаблонах для vBulletin 4](https://lib.onl/ru/posts/2023/10/c079a268-5fb5-5d0d-8c00-0202630ce13d/) (6 days ago)
+- [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/posts/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (2 days ago)
+- [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (3 days ago)
+- [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (4 days ago)
+- [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (4 days ago)
+- [Добавление корневых сертификатов в RouterOS](https://lib.onl/ru/posts/2023/10/cc13623b-970c-5950-867e-168f9ba9025a/) (5 days ago)
+- [Создание сертификатов через OpenSSL](https://lib.onl/ru/posts/2023/10/6733cb51-62a0-5ed9-b421-8f08c4e0cb18/) (1 week ago)
+- [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (1 week ago)
+- [Дополнительная страница для vBulletin 3](https://lib.onl/ru/posts/2023/10/01d19479-028f-5b81-9c58-9c99adb08461/) (1 week ago)
+- [Дополнительная страница для IP.Board 2.3](https://lib.onl/ru/posts/2023/10/f0463a78-0393-5891-bbe5-c39ec575ae75/) (1 week ago)
+- [Условия в шаблонах для vBulletin 4](https://lib.onl/ru/posts/2023/10/c079a268-5fb5-5d0d-8c00-0202630ce13d/) (1 week ago)
 
 ## Contacts
 
