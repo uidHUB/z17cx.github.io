@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 day ago)  
-  Bash tools for GitHub API.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [site-0003/content](https://github.com/site-0003/content) (today)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [pkgstore/bash-packagist-api](https://github.com/pkgstore/bash-packagist-api) (1 day ago)  
   Bash extension.
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 day ago)  
+  Bash tools for GitHub API.
 - [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (1 day ago)  
   Bash extension.
 
