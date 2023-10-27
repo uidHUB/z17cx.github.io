@@ -56,7 +56,8 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [PowerShell: Изменение порта для RDP](https://lib.onl/ru/posts/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (1 day ago)
+- [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/posts/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (today)
+- [Изменение порта RDP](https://lib.onl/ru/posts/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (1 day ago)
 - [PowerShell: Полезные функции](https://lib.onl/ru/posts/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (3 days ago)
 - [PowerShell: Стирание диска](https://lib.onl/ru/posts/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (4 days ago)
 - [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/posts/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (5 days ago)
@@ -65,7 +66,6 @@ I'm writing articles on system administration and development of various systems
 - [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (1 week ago)
 - [Добавление корневых сертификатов в RouterOS](https://lib.onl/ru/posts/2023/10/cc13623b-970c-5950-867e-168f9ba9025a/) (1 week ago)
 - [Создание сертификатов через OpenSSL](https://lib.onl/ru/posts/2023/10/6733cb51-62a0-5ed9-b421-8f08c4e0cb18/) (1 week ago)
-- [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (1 week ago)
 
 ## Contacts
 
