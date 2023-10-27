@@ -6,13 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [site-0003/content](https://github.com/site-0003/content) (today)
-- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (today)  
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (1 day ago)  
   Custom UI from SITE-0003.
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 day ago)  
+- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (2 days ago)  
   Bash tools for GitHub API.
 
 ### :telescope: Recent releases
@@ -56,16 +56,16 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [PowerShell: Полезные функции](https://lib.onl/ru/posts/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (2 days ago)
-- [PowerShell: Стирание диска](https://lib.onl/ru/posts/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (3 days ago)
-- [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/posts/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (4 days ago)
-- [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (5 days ago)
-- [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (6 days ago)
-- [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (6 days ago)
+- [PowerShell: Изменение порта для RDP](https://lib.onl/ru/posts/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (1 day ago)
+- [PowerShell: Полезные функции](https://lib.onl/ru/posts/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (3 days ago)
+- [PowerShell: Стирание диска](https://lib.onl/ru/posts/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (4 days ago)
+- [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/posts/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (5 days ago)
+- [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (6 days ago)
+- [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (1 week ago)
+- [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (1 week ago)
 - [Добавление корневых сертификатов в RouterOS](https://lib.onl/ru/posts/2023/10/cc13623b-970c-5950-867e-168f9ba9025a/) (1 week ago)
 - [Создание сертификатов через OpenSSL](https://lib.onl/ru/posts/2023/10/6733cb51-62a0-5ed9-b421-8f08c4e0cb18/) (1 week ago)
 - [Дополнительная страница для vBulletin 4](https://lib.onl/ru/posts/2023/10/382d49d6-8f44-5367-bf24-88890d7c4723/) (1 week ago)
-- [Дополнительная страница для vBulletin 3](https://lib.onl/ru/posts/2023/10/01d19479-028f-5b81-9c58-9c99adb08461/) (1 week ago)
 
 ## Contacts
 
