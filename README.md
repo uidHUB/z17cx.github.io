@@ -56,6 +56,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [Работа с переменной среды окружения PATH](https://lib.onl/ru/posts/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (today)
 - [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/posts/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (1 day ago)
 - [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/posts/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (1 day ago)
 - [Изменение порта RDP](https://lib.onl/ru/posts/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (2 days ago)
@@ -65,7 +66,6 @@ I'm writing articles on system administration and development of various systems
 - [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (1 week ago)
 - [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (1 week ago)
 - [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (1 week ago)
-- [Добавление корневых сертификатов в RouterOS](https://lib.onl/ru/posts/2023/10/cc13623b-970c-5950-867e-168f9ba9025a/) (1 week ago)
 
 ## Contacts
 
