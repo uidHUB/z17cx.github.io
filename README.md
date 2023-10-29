@@ -12,8 +12,8 @@ I'm writing articles on system administration and development of various systems
   Hugo extension.
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (3 days ago)  
   Custom UI from SITE-0003.
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (4 days ago)  
-  Bash tools for GitHub API.
+- [pkgstore/bash-tools](https://github.com/pkgstore/bash-tools) (4 days ago)  
+  Bash extension.
 
 ### :telescope: Recent releases
 
@@ -56,6 +56,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [Работа с правилами CloudFlare](https://lib.onl/ru/posts/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (today)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/posts/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (1 day ago)
 - [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/posts/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (2 days ago)
 - [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/posts/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (2 days ago)
@@ -65,7 +66,6 @@ I'm writing articles on system administration and development of various systems
 - [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/posts/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (1 week ago)
 - [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/posts/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (1 week ago)
 - [PowerShell Vault](https://lib.onl/ru/posts/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (1 week ago)
-- [Дефрагментация в ОС Windows](https://lib.onl/ru/posts/2023/10/eb39e3f7-b194-53d4-8bad-01edf9fdac47/) (1 week ago)
 
 ## Contacts
 
