@@ -35,6 +35,8 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
+- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (today)  
+  Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (2 weeks ago)  
   A pure Unix shell script implementing ACME client protocol
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (4 weeks ago)  
@@ -43,8 +45,6 @@ I'm writing articles on system administration and development of various systems
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (2 months ago)  
   Most modern mobile touch slider with hardware accelerated transitions
-- [cli/cli](https://github.com/cli/cli) (3 months ago)  
-  GitHub’s official command line tool
 
 ### :busts_in_silhouette: Recent followers
 
