@@ -56,6 +56,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
+- [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (1 day ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (3 days ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (4 days ago)
 - [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (5 days ago)
@@ -65,7 +66,6 @@ I'm writing articles on system administration and development of various systems
 - [PowerShell: Стирание диска](https://lib.onl/ru/articles/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (1 week ago)
 - [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/articles/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (1 week ago)
 - [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/articles/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (1 week ago)
-- [PowerShell Vault](https://lib.onl/ru/articles/2023/10/4c7aba7c-f5a6-589a-9975-fdb16f2e2862/) (1 week ago)
 
 ## Contacts
 
