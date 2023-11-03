@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
-- [site-0003/content](https://github.com/site-0003/content) (today)
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (1 week ago)  
   Custom UI from SITE-0003.
 - [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 week ago)  
@@ -35,11 +35,11 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (1 day ago)  
+- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (2 days ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (3 weeks ago)  
   A pure Unix shell script implementing ACME client protocol
-- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (4 weeks ago)  
+- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 month ago)  
   Serverless IMDB API powered by Cloudflare Worker
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (1 month ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
@@ -56,11 +56,11 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (2 days ago)
-- [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (4 days ago)
-- [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (5 days ago)
-- [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (6 days ago)
-- [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (6 days ago)
+- [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (3 days ago)
+- [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (5 days ago)
+- [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (6 days ago)
+- [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (1 week ago)
+- [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (1 week ago)
 - [Изменение порта RDP](https://lib.onl/ru/articles/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (1 week ago)
 - [PowerShell: Полезные функции](https://lib.onl/ru/articles/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (1 week ago)
 - [PowerShell: Стирание диска](https://lib.onl/ru/articles/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (1 week ago)
