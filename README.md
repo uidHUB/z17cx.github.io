@@ -6,14 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0003/content](https://github.com/site-0003/content) (today)
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
+- [site-0001/content](https://github.com/site-0001/content) (today)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
   Hugo extension.
+- [site-0003/content](https://github.com/site-0003/content) (today)
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (1 week ago)  
   Custom UI from SITE-0003.
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (2 weeks ago)  
-  Bash tools for GitHub API.
 
 ### :telescope: Recent releases
 
