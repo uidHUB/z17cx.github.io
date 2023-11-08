@@ -6,13 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
-  Hugo extension.
 - [site-0003/content](https://github.com/site-0003/content) (today)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
+  Hugo extension.
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (1 week ago)  
   Custom UI from SITE-0003.
-- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (1 week ago)  
+- [pkgstore/bash-github-api](https://github.com/pkgstore/bash-github-api) (2 weeks ago)  
   Bash tools for GitHub API.
 
 ### :telescope: Recent releases
@@ -35,7 +35,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (6 days ago)  
+- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (1 week ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (3 weeks ago)  
   A pure Unix shell script implementing ACME client protocol
