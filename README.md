@@ -6,13 +6,14 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (today)  
+  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
+- [pkgstore/pwsh-7z-old](https://github.com/pkgstore/pwsh-7z-old) (today)  
+  PowerShell module for working with 7-ZIP.
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
-- [site-0001/content](https://github.com/site-0001/content) (3 days ago)
-- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (2 weeks ago)  
-  Custom UI from SITE-0003.
 
 ### :telescope: Recent releases
 
