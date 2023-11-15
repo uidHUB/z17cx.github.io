@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 day ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (2 days ago)  
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (2 days ago)
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (2 days ago)
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (2 days ago)
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (3 days ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (4 days ago)  
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (5 days ago)  
   Hugo extension.
 
 ### :telescope: Recent releases
@@ -34,7 +34,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (1 week ago)  
+- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (2 weeks ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (1 month ago)  
   A pure Unix shell script implementing ACME client protocol
