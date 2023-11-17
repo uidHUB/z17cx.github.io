@@ -6,17 +6,17 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (3 days ago)
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (3 days ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (3 days ago)
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (4 days ago)  
-  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (6 days ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 day ago)  
+  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.23.0](https://github.com/flarum-lang/russian/releases/tag/1.23.0), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.23.0](https://github.com/flarum-lang/russian/releases/tag/1.23.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -58,8 +58,8 @@ I'm writing articles on system administration and development of various systems
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (2 weeks ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (2 weeks ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (2 weeks ago)
-- [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (2 weeks ago)
-- [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (2 weeks ago)
+- [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (3 weeks ago)
+- [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (3 weeks ago)
 - [Изменение порта RDP](https://lib.onl/ru/articles/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (3 weeks ago)
 - [PowerShell: Полезные функции](https://lib.onl/ru/articles/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (3 weeks ago)
 - [PowerShell: Стирание диска](https://lib.onl/ru/articles/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (3 weeks ago)
