@@ -9,10 +9,9 @@ I'm writing articles on system administration and development of various systems
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
   Hugo extension.
 - [site-0003/content](https://github.com/site-0003/content) (today)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 day ago)  
-  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
 
 ### :telescope: Recent releases
 
