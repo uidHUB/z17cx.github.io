@@ -6,12 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 day ago)
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (today)  
+  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (today)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 day ago)  
   Hugo extension.
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (2 days ago)
 
 ### :telescope: Recent releases
 
