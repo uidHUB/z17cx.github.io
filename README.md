@@ -8,13 +8,12 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (today)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 day ago)  
-  A script for quickly batch converting video files from one format to another, mainly to reduce the size.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)  
-  PowerShell module for working with cURL.
+- [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (today)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)  
   PowerShell module for working with 7-ZIP.
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)  
+  PowerShell module for working with cURL.
 
 ### :telescope: Recent releases
 
