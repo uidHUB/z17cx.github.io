@@ -19,6 +19,8 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) ([v0.1.0](https://github.com/pkgstore/pwsh-7z/releases/tag/v0.1.0), today)  
+  PowerShell module for working with 7-ZIP.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.0](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.0), 1 day ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
 - [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) ([v0.1.0](https://github.com/pkgstore/pwsh-kernel/releases/tag/v0.1.0), 2 days ago)  
