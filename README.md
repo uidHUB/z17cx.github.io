@@ -6,24 +6,24 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (today)  
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 day ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (today)  
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 day ago)  
   A script for quickly batch converting video files from one format to another, mainly to reduce the size.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (today)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 day ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)  
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)  
   PowerShell module for working with 7-ZIP.
 
 ### :telescope: Recent releases
 
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.0](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.0), today)  
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.0](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.0), 1 day ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) ([v0.1.0](https://github.com/pkgstore/pwsh-kernel/releases/tag/v0.1.0), 1 day ago)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) ([v0.1.0](https://github.com/pkgstore/pwsh-kernel/releases/tag/v0.1.0), 2 days ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.23.0](https://github.com/flarum-lang/russian/releases/tag/1.23.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.23.0](https://github.com/flarum-lang/russian/releases/tag/1.23.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 ### :hammer: Recent pull requests
@@ -69,9 +69,9 @@ I'm writing articles on system administration and development of various systems
 - [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (3 weeks ago)
 - [Изменение порта RDP](https://lib.onl/ru/articles/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (3 weeks ago)
 - [PowerShell: Полезные функции](https://lib.onl/ru/articles/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (3 weeks ago)
-- [PowerShell: Стирание диска](https://lib.onl/ru/articles/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (3 weeks ago)
+- [PowerShell: Стирание диска](https://lib.onl/ru/articles/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (4 weeks ago)
 - [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/articles/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (4 weeks ago)
-- [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/articles/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (4 weeks ago)
+- [PowerShell: Определение разрядности ОС Windows](https://lib.onl/ru/articles/2023/10/0028821e-c96c-5014-a1dd-8963c161b170/) (1 month ago)
 
 ## Contacts
 
