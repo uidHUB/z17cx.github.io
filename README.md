@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+  PowerShell module for working with cURL.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 day ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)  
-  PowerShell module for working with cURL.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 day ago)  
   A script for quickly batch converting video files from one format to another, mainly to reduce the size.
 - [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (1 day ago)  
@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.0](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.0), today)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), today)  
   PowerShell module for working with cURL.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) ([v0.1.0](https://github.com/pkgstore/pwsh-ffmpeg/releases/tag/v0.1.0), today)  
   A script for quickly batch converting video files from one format to another, mainly to reduce the size.
