@@ -11,10 +11,10 @@ I'm writing articles on system administration and development of various systems
   PowerShell module for working with cURL.
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (2 days ago)  
   PowerShell module for working with 7-ZIP.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (2 days ago)  
-  A script for quickly batch converting video files from one format to another, mainly to reduce the size.
 - [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (2 days ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (2 days ago)  
+  A script for quickly batch converting video files from one format to another, mainly to reduce the size.
 
 ### :telescope: Recent releases
 
