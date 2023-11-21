@@ -44,6 +44,8 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
+- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (today)  
+  Security automation content in SCAP, Bash, Ansible, and other formats
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (2 weeks ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (1 month ago)  
@@ -52,8 +54,6 @@ I'm writing articles on system administration and development of various systems
   Serverless IMDB API powered by Cloudflare Worker
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (1 month ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) (3 months ago)  
-  Most modern mobile touch slider with hardware accelerated transitions
 
 ### :busts_in_silhouette: Recent followers
 
