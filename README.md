@@ -6,11 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [z17cx/init](https://github.com/z17cx/init) (today)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (2 days ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (3 days ago)  
-  PowerShell module for working with 7-ZIP.
 - [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (3 days ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (3 days ago)  
