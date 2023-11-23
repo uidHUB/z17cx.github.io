@@ -17,6 +17,8 @@ I'm writing articles on system administration and development of various systems
 
 ### :telescope: Recent releases
 
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.24.0](https://github.com/flarum-lang/russian/releases/tag/1.24.0), today)  
+  🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 3 days ago)  
   PowerShell module for working with cURL.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) ([v0.1.0](https://github.com/pkgstore/pwsh-ffmpeg/releases/tag/v0.1.0), 3 days ago)  
@@ -25,8 +27,6 @@ I'm writing articles on system administration and development of various systems
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.1](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.1), 3 days ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) ([v0.1.0](https://github.com/pkgstore/pwsh-7z/releases/tag/v0.1.0), 3 days ago)  
-  PowerShell module for working with 7-ZIP.
 
 ### :hammer: Recent pull requests
 
