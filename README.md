@@ -6,12 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
+- [site-0003/content](https://github.com/site-0003/content) (today)
 - [z17cx/init](https://github.com/z17cx/init) (2 days ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (4 days ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (5 days ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (6 days ago)  
-  Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (6 days ago)  
   A script for quickly batch converting video files from one format to another, mainly to reduce the size.
 
