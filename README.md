@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [site-0003/content](https://github.com/site-0003/content) (today)
 - [z17cx/init](https://github.com/z17cx/init) (3 days ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (5 days ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (6 days ago)  
