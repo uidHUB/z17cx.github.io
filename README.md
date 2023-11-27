@@ -6,25 +6,25 @@ I'm writing articles on system administration and development of various systems
 
 ### :construction_worker_man: I'm currently working on...
 
-- [site-0003/content](https://github.com/site-0003/content) (today)
-- [z17cx/init](https://github.com/z17cx/init) (3 days ago)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (5 days ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (6 days ago)  
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [z17cx/init](https://github.com/z17cx/init) (4 days ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (6 days ago)
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for working with cURL.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 week ago)  
   A script for quickly batch converting video files from one format to another, mainly to reduce the size.
 
 ### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.24.0](https://github.com/flarum-lang/russian/releases/tag/1.24.0), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.24.0](https://github.com/flarum-lang/russian/releases/tag/1.24.0), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 6 days ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 1 week ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) ([v0.1.0](https://github.com/pkgstore/pwsh-ffmpeg/releases/tag/v0.1.0), 6 days ago)  
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) ([v0.1.0](https://github.com/pkgstore/pwsh-ffmpeg/releases/tag/v0.1.0), 1 week ago)  
   A script for quickly batch converting video files from one format to another, mainly to reduce the size.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) ([v0.1.1](https://github.com/pkgstore/pwsh-kernel/releases/tag/v0.1.1), 6 days ago)  
+- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) ([v0.1.1](https://github.com/pkgstore/pwsh-kernel/releases/tag/v0.1.1), 1 week ago)  
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.1](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.1), 6 days ago)  
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.1](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.1), 1 week ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
 
 ### :hammer: Recent pull requests
@@ -42,7 +42,7 @@ I'm writing articles on system administration and development of various systems
 
 ### :star: Recent stars
 
-- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (5 days ago)  
+- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (6 days ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (3 weeks ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
@@ -50,7 +50,7 @@ I'm writing articles on system administration and development of various systems
   A pure Unix shell script implementing ACME client protocol
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 month ago)  
   Serverless IMDB API powered by Cloudflare Worker
-- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (1 month ago)  
+- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (2 months ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
 ### :busts_in_silhouette: Recent followers
@@ -63,10 +63,10 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (1 day ago)
+- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (2 days ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (3 weeks ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (4 weeks ago)
-- [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (4 weeks ago)
+- [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (1 month ago)
 - [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (1 month ago)
 - [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (1 month ago)
 - [Изменение порта RDP](https://lib.onl/ru/articles/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (1 month ago)
