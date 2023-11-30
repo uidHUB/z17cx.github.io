@@ -1,6 +1,6 @@
-name: "Kitsune Solar"
+name: "z17CX"
 title: null
-description: "System administrator and web developer. I'm writing articles on system administration and development of various systems, applications and servers."
+description: "System administrator and web developer."
 image: ""
 lang: "ru-RU"
 
@@ -11,19 +11,19 @@ defaults:
       image: ""
 
 author:
-  name: "Kitsune Solar"
-  email: "mail@kitsune.solar"
-  github: "KitsuneSolar"
-  twitter: "KitsuneSolar"
+  name: "z17CX"
+  email: "mail@z17.cx"
+  github: "z17cx"
+  twitter: "z17cx"
 
 twitter:
-  username: "KitsuneSolar"
+  username: "z17cx"
   card: summary
 
 social:
-  name: "KitsuneSolar"
+  name: "z17cx"
   links:
-    - https://github.com/KitsuneSolar
+    - https://github.com/z17cx
 
 webmaster_verifications:
   google: "JP8xL1s_oeKkyIi0gxXsewBiBGiTqyoRwnKDZ3zC_uI"
