@@ -1,21 +1,22 @@
-# Kitsune Solar 🦊
+## Hi there :wave:
 
 System administrator and web developer.
 
-I'm writing articles on system administration and development of various systems, applications and servers.
+I write articles on system administration and development of various systems, applications and servers.
 
-### :construction_worker_man: I'm currently working on...
+#### :construction_worker_man: I'm currently working on...
 
+
+- [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (today)
 - [site-0003/content](https://github.com/site-0003/content) (4 days ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 week ago)  
-  A script for quickly batch converting video files from one format to another, mainly to reduce the size.
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (1 week ago)  
-  A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
+- [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (1 week ago)  
+  Module for installing third-party modules from GitHub.
 
-### :telescope: Recent releases
+#### :telescope: Recent releases
+
 
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.25.0](https://github.com/flarum-lang/russian/releases/tag/1.25.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
@@ -28,7 +29,8 @@ I'm writing articles on system administration and development of various systems
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.1](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.1), 1 week ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
 
-### :hammer: Recent pull requests
+#### :hammer: Recent pull requests
+
 
 - [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) `MERGED`  
   &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
@@ -41,7 +43,8 @@ I'm writing articles on system administration and development of various systems
 - [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (6 years ago) `MERGED`  
   &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
 
-### :star: Recent stars
+#### :star: Recent stars
+
 
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (1 week ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
@@ -54,7 +57,8 @@ I'm writing articles on system administration and development of various systems
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (2 months ago)  
   Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
-### :busts_in_silhouette: Recent followers
+#### :busts_in_silhouette: Recent followers
+
 
 - [Stanislav Migunov](https://github.com/mr-w1lde)
 - [Vladimir Petrozavodsky](https://github.com/petrozavodsky)
@@ -63,6 +67,7 @@ I'm writing articles on system administration and development of various systems
 - [MySochi](https://github.com/MySochi)
 
 ## Blog
+
 
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (5 days ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (1 month ago)
@@ -77,20 +82,19 @@ I'm writing articles on system administration and development of various systems
 
 ## Contacts
 
-- :earth_africa: [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
-- :hammer_and_wrench: [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
-- :camera: [Instagram](https://instagram.com/KitsuneSolar)
-- :briefcase: [LinkedIn](https://linkedin.com/in/KitsuneSolar)
-- :movie_camera: [Twitch](https://twitch.tv/KitsuneSolar)
-- :bird: [Twitter](https://twitter.com/KitsuneSolar)
-- :speech_balloon: [VK](https://vk.com/KitsuneSolar)
-- :tv: [YouTube](https://youtube.com/KitsuneSolar)
+- :hammer_and_wrench: [GitHub](https://github.com/z17cx) / [GitLab](https://gitlab.com/z17cx)
+- :camera: [Instagram](https://instagram.com/z17cx)
+- :briefcase: [LinkedIn](https://linkedin.com/in/z17cx)
+- :movie_camera: [Twitch](https://twitch.tv/z17cx)
+- :bird: [Twitter](https://twitter.com/z17cx)
+- :speech_balloon: [VK](https://vk.com/z17cx)
+- :tv: [YouTube](https://youtube.com/@z17cx)
 
-<img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
+<img src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
 ## Projects
 
-<img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
+<img align="right" src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
 - [**GitHub Package Store**](https://github.com/pkgstore)  
   Development storage for CMS/CMF, Linux OS and other various systems.
