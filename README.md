@@ -7,18 +7,18 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (today)  
+  🇷🇺 Russian language pack for Flarum.
 - [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (1 day ago)
 - [site-0003/content](https://github.com/site-0003/content) (5 days ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for working with cURL.
-- [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (1 week ago)  
-  Module for installing third-party modules from GitHub.
 
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.25.0](https://github.com/flarum-lang/russian/releases/tag/1.25.0), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), today)  
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 1 week ago)  
   PowerShell module for working with cURL.
