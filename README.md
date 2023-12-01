@@ -7,8 +7,8 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (today)
-- [site-0003/content](https://github.com/site-0003/content) (4 days ago)
+- [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (1 day ago)
+- [site-0003/content](https://github.com/site-0003/content) (5 days ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for working with cURL.
@@ -18,7 +18,7 @@ I write articles on system administration and development of various systems, ap
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.25.0](https://github.com/flarum-lang/russian/releases/tag/1.25.0), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.25.0](https://github.com/flarum-lang/russian/releases/tag/1.25.0), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 1 week ago)  
   PowerShell module for working with cURL.
@@ -40,7 +40,7 @@ I write articles on system administration and development of various systems, ap
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
 - [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) `CLOSED`  
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
-- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (6 years ago) `MERGED`  
+- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (7 years ago) `MERGED`  
   &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
 
 #### :star: Recent stars
@@ -48,7 +48,7 @@ I write articles on system administration and development of various systems, ap
 
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (1 week ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
-- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (4 weeks ago)  
+- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (1 month ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (1 month ago)  
   A pure Unix shell script implementing ACME client protocol
@@ -69,7 +69,7 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (5 days ago)
+- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (6 days ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (1 month ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (1 month ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (1 month ago)
