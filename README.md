@@ -46,6 +46,8 @@ I write articles on system administration and development of various systems, ap
 #### :star: Recent stars
 
 
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (today)  
+  :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (1 week ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (1 month ago)  
@@ -54,8 +56,6 @@ I write articles on system administration and development of various systems, ap
   A pure Unix shell script implementing ACME client protocol
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 month ago)  
   Serverless IMDB API powered by Cloudflare Worker
-- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) (2 months ago)  
-  Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
 #### :busts_in_silhouette: Recent followers
 
