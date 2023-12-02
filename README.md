@@ -7,10 +7,10 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 day ago)  
   🇷🇺 Russian language pack for Flarum.
-- [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (1 day ago)
-- [site-0003/content](https://github.com/site-0003/content) (5 days ago)
+- [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (2 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (6 days ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for working with cURL.
@@ -18,7 +18,7 @@ I write articles on system administration and development of various systems, ap
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 1 week ago)  
   PowerShell module for working with cURL.
@@ -69,7 +69,7 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (6 days ago)
+- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (1 week ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (1 month ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (1 month ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (1 month ago)
