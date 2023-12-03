@@ -7,13 +7,13 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
+- [site-0003/content](https://github.com/site-0003/content) (today)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
+  Hugo extension.
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 - [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (3 days ago)
-- [site-0003/content](https://github.com/site-0003/content) (1 week ago)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
-  PowerShell module for working with cURL.
 
 #### :telescope: Recent releases
 
