@@ -7,10 +7,10 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 days ago)  
   🇷🇺 Russian language pack for Flarum.
-- [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (2 days ago)
-- [site-0003/content](https://github.com/site-0003/content) (6 days ago)
+- [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (3 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (1 week ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for working with cURL.
@@ -18,7 +18,7 @@ I write articles on system administration and development of various systems, ap
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 1 week ago)  
   PowerShell module for working with cURL.
@@ -46,7 +46,7 @@ I write articles on system administration and development of various systems, ap
 #### :star: Recent stars
 
 
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (today)  
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (1 day ago)  
   :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (1 week ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
@@ -54,7 +54,7 @@ I write articles on system administration and development of various systems, ap
   Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (1 month ago)  
   A pure Unix shell script implementing ACME client protocol
-- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (1 month ago)  
+- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) (2 months ago)  
   Serverless IMDB API powered by Cloudflare Worker
 
 #### :busts_in_silhouette: Recent followers
