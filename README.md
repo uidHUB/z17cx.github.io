@@ -7,18 +7,18 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [site-0003/content](https://github.com/site-0003/content) (3 days ago)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (4 days ago)  
+- [site-0003/content](https://github.com/site-0003/content) (4 days ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (5 days ago)  
   Hugo extension.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (4 days ago)
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (6 days ago)  
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (5 days ago)
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 - [z17cx/z17cx.github.io](https://github.com/z17cx/z17cx.github.io) (1 week ago)
 
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), 6 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), 1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 2 weeks ago)  
   PowerShell module for working with cURL.
@@ -46,7 +46,7 @@ I write articles on system administration and development of various systems, ap
 #### :star: Recent stars
 
 
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (5 days ago)  
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (6 days ago)  
   :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (2 weeks ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
