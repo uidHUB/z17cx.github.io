@@ -8,11 +8,11 @@ I write articles on system administration and development of various systems, ap
 
 
 - [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (today)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (today)  
+  Hugo extension.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
 - [site-0001/content](https://github.com/site-0001/content) (today)
 - [site-0003/content](https://github.com/site-0003/content) (5 days ago)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (6 days ago)  
-  Hugo extension.
 
 #### :telescope: Recent releases
 
