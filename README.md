@@ -7,17 +7,17 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
-- [site-0001/content](https://github.com/site-0001/content) (today)
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (5 days ago)  
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
+- [site-0001/content](https://github.com/site-0001/content) (1 day ago)
+- [site-0003/content](https://github.com/site-0003/content) (2 days ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (6 days ago)  
   Hugo extension.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (5 days ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (6 days ago)
 
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), 1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.26.0](https://github.com/flarum-lang/russian/releases/tag/1.26.0), 2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 3 weeks ago)  
   PowerShell module for working with cURL.
