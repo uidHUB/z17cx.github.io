@@ -7,12 +7,12 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
-- [site-0001/content](https://github.com/site-0001/content) (1 day ago)
-- [site-0003/content](https://github.com/site-0003/content) (2 days ago)
-- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (6 days ago)  
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 days ago)
+- [site-0001/content](https://github.com/site-0001/content) (2 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (3 days ago)
+- [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 week ago)  
   Hugo extension.
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (6 days ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 week ago)
 
 #### :telescope: Recent releases
 
@@ -45,7 +45,7 @@ I write articles on system administration and development of various systems, ap
 #### :star: Recent stars
 
 
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (1 week ago)  
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (2 weeks ago)  
   :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (3 weeks ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
@@ -68,7 +68,7 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (2 weeks ago)
+- [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (3 weeks ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (1 month ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (1 month ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (1 month ago)
