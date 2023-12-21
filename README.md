@@ -7,8 +7,8 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (4 days ago)
-- [site-0001/content](https://github.com/site-0001/content) (6 days ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (5 days ago)
+- [site-0001/content](https://github.com/site-0001/content) (1 week ago)
 - [site-0003/content](https://github.com/site-0003/content) (1 week ago)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (1 week ago)  
   Hugo extension.
@@ -47,7 +47,7 @@ I write articles on system administration and development of various systems, ap
 
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (2 weeks ago)  
   :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (4 weeks ago)  
+- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (1 month ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (1 month ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
@@ -77,7 +77,7 @@ I write articles on system administration and development of various systems, ap
 - [Изменение порта RDP](https://lib.onl/ru/articles/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (1 month ago)
 - [PowerShell: Полезные функции](https://lib.onl/ru/articles/2023/10/c6e32349-8fc2-53f9-9a42-790878a64076/) (1 month ago)
 - [PowerShell: Стирание диска](https://lib.onl/ru/articles/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (1 month ago)
-- [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/articles/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (1 month ago)
+- [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/articles/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (2 months ago)
 
 ## Contacts
 
