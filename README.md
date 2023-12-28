@@ -7,10 +7,10 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [site-0003/content](https://github.com/site-0003/content) (today)
-- [site-0001/content](https://github.com/site-0001/content) (1 day ago)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (4 days ago)
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (5 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
+- [site-0001/content](https://github.com/site-0001/content) (2 days ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (5 days ago)
+- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (6 days ago)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (2 weeks ago)  
   Hugo extension.
 
@@ -68,10 +68,10 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (today)
+- [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (1 day ago)
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (1 month ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (1 month ago)
-- [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (1 month ago)
+- [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (2 months ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (2 months ago)
 - [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (2 months ago)
 - [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (2 months ago)
