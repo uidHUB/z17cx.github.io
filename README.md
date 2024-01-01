@@ -7,8 +7,8 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [site-0003/content](https://github.com/site-0003/content) (4 days ago)
-- [site-0001/content](https://github.com/site-0001/content) (5 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (5 days ago)
+- [site-0001/content](https://github.com/site-0001/content) (6 days ago)
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 week ago)
 - [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (1 week ago)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (3 weeks ago)  
@@ -35,9 +35,9 @@ I write articles on system administration and development of various systems, ap
   &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
 - [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) `CLOSED`  
   &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
-- [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago) `MERGED`  
+- [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (3 years ago) `MERGED`  
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
-- [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) `CLOSED`  
+- [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (3 years ago) `CLOSED`  
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
 - [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (7 years ago) `MERGED`  
   &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
@@ -45,7 +45,7 @@ I write articles on system administration and development of various systems, ap
 #### :star: Recent stars
 
 
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (4 weeks ago)  
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (1 month ago)  
   :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (1 month ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
@@ -68,7 +68,7 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (4 days ago)
+- [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (5 days ago)
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (1 month ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (2 months ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (2 months ago)
