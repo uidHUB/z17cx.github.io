@@ -17,7 +17,7 @@ I write articles on system administration and development of various systems, ap
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.27.0](https://github.com/flarum-lang/russian/releases/tag/1.27.0), 2 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.28.0](https://github.com/flarum-lang/russian/releases/tag/1.28.0), today)  
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 1 month ago)  
   PowerShell module for working with cURL.
