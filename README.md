@@ -7,7 +7,8 @@ I write articles on system administration and development of various systems, ap
 #### :construction_worker_man: I'm currently working on...
 
 
-- [pkgstore/hugo-ui-blog](https://github.com/pkgstore/hugo-ui-blog) (3 days ago)
+- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (3 days ago)  
+  Custom UI from SITE-0003.
 - [site-0003/content](https://github.com/site-0003/content) (3 days ago)
 - [pkgstore/hugo-ui-shortcode](https://github.com/pkgstore/hugo-ui-shortcode) (3 days ago)  
   Hugo extension.
@@ -17,8 +18,6 @@ I write articles on system administration and development of various systems, ap
 #### :telescope: Recent releases
 
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.28.0](https://github.com/flarum-lang/russian/releases/tag/1.28.0), 4 days ago)  
-  🇷🇺 Russian language pack for Flarum.
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) ([v0.1.1](https://github.com/pkgstore/pwsh-curl/releases/tag/v0.1.1), 2 months ago)  
   PowerShell module for working with cURL.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) ([v0.1.0](https://github.com/pkgstore/pwsh-ffmpeg/releases/tag/v0.1.0), 2 months ago)  
@@ -27,6 +26,8 @@ I write articles on system administration and development of various systems, ap
   Generic module for PowerShell. Used in PkgStore modules. Contains common functions for the operation of modules.
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) ([v0.1.1](https://github.com/pkgstore/pwsh-vault/releases/tag/v0.1.1), 2 months ago)  
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) ([v0.1.0](https://github.com/pkgstore/pwsh-7z/releases/tag/v0.1.0), 2 months ago)  
+  PowerShell module for working with 7-ZIP.
 
 #### :hammer: Recent pull requests
 
