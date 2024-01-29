@@ -71,7 +71,7 @@ I write articles on system administration and development of various systems, ap
 
 - [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (1 month ago)
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (2 months ago)
-- [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (2 months ago)
+- [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (3 months ago)
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (3 months ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (3 months ago)
 - [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (3 months ago)
