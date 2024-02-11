@@ -69,8 +69,8 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Корректная настройка PuTTY](https://lib.onl/ru/articles/2024/02/0f33ac75-f502-5eee-b0b9-ce636fcea636/) (1 day ago)
-- [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (2 days ago)
+- [Корректная настройка PuTTY](https://lib.onl/ru/articles/2024/02/0f33ac75-f502-5eee-b0b9-ce636fcea636/) (2 days ago)
+- [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (3 days ago)
 - [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (1 month ago)
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (2 months ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (3 months ago)
