@@ -69,7 +69,7 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (6 days ago)
+- [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (1 week ago)
 - [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (1 month ago)
 - [Базовая автоматическая настройка MikroTik](https://lib.onl/ru/articles/2023/12/0f3478b3-9fde-59aa-a424-ff160431fa35/) (1 month ago)
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (2 months ago)
