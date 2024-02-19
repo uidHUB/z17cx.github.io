@@ -48,7 +48,7 @@ I write articles on system administration and development of various systems, ap
 
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) (2 months ago)  
   :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (2 months ago)  
+- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (3 months ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
 - [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (3 months ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
