@@ -50,7 +50,7 @@ I write articles on system administration and development of various systems, ap
   :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (3 months ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
-- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (3 months ago)  
+- [JayHoltslander/Structured-Data-JSON-LD](https://github.com/JayHoltslander/Structured-Data-JSON-LD) (4 months ago)  
   Collection of structured data snippets in Google preferred JSON-LD format.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) (4 months ago)  
   A pure Unix shell script implementing ACME client protocol
@@ -69,7 +69,7 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (2 weeks ago)
+- [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (3 weeks ago)
 - [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (2 months ago)
 - [Базовая автоматическая настройка MikroTik](https://lib.onl/ru/articles/2023/12/0f3478b3-9fde-59aa-a424-ff160431fa35/) (2 months ago)
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (3 months ago)
