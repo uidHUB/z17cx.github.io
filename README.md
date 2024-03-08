@@ -32,9 +32,9 @@ I write articles on system administration and development of various systems, ap
 #### :hammer: Recent pull requests
 
 
-- [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) `MERGED`  
+- [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (3 years ago) `MERGED`  
   &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
-- [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) `CLOSED`  
+- [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (3 years ago) `CLOSED`  
   &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
 - [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (3 years ago) `MERGED`  
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
