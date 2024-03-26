@@ -69,6 +69,8 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
+- [Загрузка и выгрузка конфигурации CISCO](https://lib.onl/ru/articles/2024/03/4a7addb9-eff3-5482-902c-791fbe49899f/) (today)
+- [Сброс пароля CISCO](https://lib.onl/ru/articles/2024/03/fc67eb74-8f7c-5de3-bd1e-2d823208eae2/) (today)
 - [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (1 month ago)
 - [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (3 months ago)
 - [Базовая автоматическая настройка MikroTik](https://lib.onl/ru/articles/2023/12/0f3478b3-9fde-59aa-a424-ff160431fa35/) (3 months ago)
@@ -77,8 +79,6 @@ I write articles on system administration and development of various systems, ap
 - [Работа с правилами CloudFlare](https://lib.onl/ru/articles/2023/10/e191797e-d558-5017-8ac4-c28c6e0871ff/) (4 months ago)
 - [Работа с переменной среды окружения PATH](https://lib.onl/ru/articles/2023/10/1f062637-3227-56d7-93e3-126d1c80f5a8/) (5 months ago)
 - [Автоматическая настройка Windows Server 2022 под рабочую станцию](https://lib.onl/ru/articles/2023/10/fb64d665-3e56-5fa5-a9eb-2e2e251949d8/) (5 months ago)
-- [Восстановление доверительных отношений между PC и Active Directory](https://lib.onl/ru/articles/2023/10/38fc94dd-8d37-5f9e-b556-676304976a9f/) (5 months ago)
-- [Изменение порта RDP](https://lib.onl/ru/articles/2023/10/616da78a-eb16-575a-9119-65f0c0c7baee/) (5 months ago)
 
 ## Contacts
 
