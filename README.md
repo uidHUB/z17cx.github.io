@@ -69,9 +69,9 @@ I write articles on system administration and development of various systems, ap
 ## Blog
 
 
-- [Обновление Cisco IOS](https://lib.onl/ru/articles/2024/03/b81f9cca-d723-5b72-929a-b88be9d329f9/) (today)
-- [Загрузка и выгрузка конфигурации Cisco](https://lib.onl/ru/articles/2024/03/4a7addb9-eff3-5482-902c-791fbe49899f/) (1 day ago)
-- [Сброс пароля Cisco](https://lib.onl/ru/articles/2024/03/fc67eb74-8f7c-5de3-bd1e-2d823208eae2/) (1 day ago)
+- [Обновление Cisco IOS](https://lib.onl/ru/articles/2024/03/b81f9cca-d723-5b72-929a-b88be9d329f9/) (1 day ago)
+- [Загрузка и выгрузка конфигурации Cisco](https://lib.onl/ru/articles/2024/03/4a7addb9-eff3-5482-902c-791fbe49899f/) (2 days ago)
+- [Сброс пароля Cisco](https://lib.onl/ru/articles/2024/03/fc67eb74-8f7c-5de3-bd1e-2d823208eae2/) (2 days ago)
 - [Первичная настройка FreeBSD](https://lib.onl/ru/articles/2024/02/f97dc310-9a6a-52f7-8441-bf7eb02087c2/) (1 month ago)
 - [Настройка DoH на MikroTik](https://lib.onl/ru/articles/2023/12/b6c7c5cd-1b0d-5fcd-8dd2-f28f87a5064c/) (3 months ago)
 - [Базовая автоматическая настройка MikroTik](https://lib.onl/ru/articles/2023/12/0f3478b3-9fde-59aa-a424-ff160431fa35/) (3 months ago)
